@@ -10,6 +10,7 @@ public class Student {
     public Student(String name, ArrayList<Course> courses) {
         this.name = name;
         this.courses = courses;
+
     }
 
 
